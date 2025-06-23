@@ -1,0 +1,7 @@
+{
+  "name": "messenger-api-minimal",
+  "version": "1.0.0",
+  "description": "Minimal Node.js API for Vercel serverless deployment",
+  "main": "index.js",
+  "type": "module"
+}
